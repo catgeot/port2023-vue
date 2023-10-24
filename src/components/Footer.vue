@@ -80,7 +80,7 @@
                 padding: 20px 0;
                 text-transform: uppercase;
                 font-weight: 800;
-                background: url(../../img/favicon.svg) no-repeat;
+                background: url(@/assets/img/favicon.svg) no-repeat right 20px;
                 transition: all 0.3s;
 
                 &:hover {
