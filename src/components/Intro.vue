@@ -24,7 +24,7 @@
                         <div>{{ introText.desc[2] }}</div>
                     </div>
                     <div class="img">
-                        <img src="@/assets/img/임시프로필.jpg" alt="about me">
+                        <img src="@/assets/img/about.jpg" alt="about me">
                     </div>
                </div> 
                <div class="intro_lines bottom" aria-hidden="true">
