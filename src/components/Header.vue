@@ -70,7 +70,7 @@
 }
 .header_inner {
    @include flex-between;
-    background: rgba(116, 99, 99, 0.1);
+   background-color: rgba(23, 242, 227, 0.1);
     backdrop-filter: blur(15px);
     padding: 1rem;
 
